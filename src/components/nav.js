@@ -29,7 +29,6 @@ const AvatarContainer = styled.div`
 
 const ListItems = styled.li`
   background-color: var(--transparent-bg);
-  border-radius: 1px;
   transition: background-color 0.3s ease;
   flex: 1;
   &.current {
