@@ -9,7 +9,7 @@ export const links = [
   },
   {
     name: "Instagram",
-    url: "https://www.instagram.com/pedro_codes/",
+    url: "https://www.instagram.com/pedro_cerna_/",
     icon: <FaInstagram/>,
   },
 ]
