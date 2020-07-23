@@ -116,7 +116,7 @@ const IndexPage = ({ location }) => {
           </H2Container>
         </TitleContainer>
         <VideoOverlay></VideoOverlay>
-        <Landing width="300" muted loop autoPlay>
+        <Landing width="300" muted loop autoPlay playsInline>
           <source src={landingVideo} type="video/mp4" />
           Your browser does not support video.
         </Landing>
