@@ -34,5 +34,9 @@ export const projects = [
   {
     name: 'Pomodoro Timer',
     url:'https://cerna-pedro.github.io/pomodoro/'
+  },
+  {
+    name: 'Agent Jason Cruz Listings',
+    url:'https://cruz-listings.netlify.app/'
   }
 ]
