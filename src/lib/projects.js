@@ -38,5 +38,9 @@ export const projects = [
   {
     name: 'Agent Jason Cruz Listings',
     url:'https://cruz-listings.netlify.app/'
-  }
+  },
+    {
+    name: 'Photo Shoot',
+    url:'https://photo-shoot.netlify.app/'
+  },
 ]
