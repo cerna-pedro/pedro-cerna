@@ -43,4 +43,8 @@ export const projects = [
     name: 'Photo Shoot',
     url:'https://photo-shoot.netlify.app/'
   },
+    {
+    name: 'United States GDP, 1947-2015',
+    url:'https://cerna-pedro.github.io/us-gdp/'
+  },
 ]
