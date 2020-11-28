@@ -39,12 +39,16 @@ export const projects = [
     name: 'Agent Jason Cruz Listings',
     url:'https://cruz-listings.netlify.app/'
   },
-    {
+  {
     name: 'Photo Shoot',
     url:'https://photo-shoot.netlify.app/'
   },
-    {
+  {
     name: 'United States GDP, 1947-2015',
     url:'https://cerna-pedro.github.io/us-gdp/'
+  },
+  {
+    name: 'Doping in Professional Bicycle Racing',
+    url:'https://cerna-pedro.github.io/bike-doping/'
   },
 ]
