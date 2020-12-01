@@ -55,4 +55,8 @@ export const projects = [
     name: "Monthly Global Land-Surface Temperature",
     url: "https://cerna-pedro.github.io/global-heat/",
   },
+  {
+    name: "United States Educational Attainment",
+    url: "https://cerna-pedro.github.io/usa-education/",
+  },
 ]
