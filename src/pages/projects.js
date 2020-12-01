@@ -20,7 +20,7 @@ const Projects = ({ location }) => {
           personal projects:
         </p>
 
-        {projects.reverse().map((project, i) => (
+        {[...projects].reverse().map((project, i) => (
           <p key={i}>
             <ExternalLink
               title={project.name}
