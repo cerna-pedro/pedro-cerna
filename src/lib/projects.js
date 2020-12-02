@@ -59,4 +59,8 @@ export const projects = [
     name: "United States Educational Attainment",
     url: "https://cerna-pedro.github.io/usa-education/",
   },
+  {
+    name: "Movie Sales",
+    url: "https://cerna-pedro.github.io/movie-sales/",
+  },
 ]
