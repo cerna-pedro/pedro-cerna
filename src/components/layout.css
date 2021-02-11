@@ -46,7 +46,11 @@ html {
   font-weight: 500;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
+}
+
+#gatsby-focus-wrapper > div > div {
   height: -webkit-fill-available;
+
 }
 
 body {
