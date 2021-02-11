@@ -48,11 +48,6 @@ html {
   -webkit-text-size-adjust: 100%;
 }
 
-#gatsby-focus-wrapper > div > div {
-  height: -webkit-fill-available;
-
-}
-
 body {
   line-height: 1.4;
   background-color: var(--bg);
