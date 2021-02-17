@@ -67,4 +67,8 @@ export const projects = [
     name: "Google.com Mockup",
     url: "https://cerna-pedro.github.io/google-mock-up/",
   },
+  {
+    name: "Sketch",
+    url: "https://cerna-pedro.github.io/sketch/",
+  },
 ]
