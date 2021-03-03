@@ -8,7 +8,7 @@ export const useFetch = () => {
     "pedro-cerna-blog-posts",
     JSON.stringify(posts)
   )
-  const url = `https://www.instagram.com/graphql/query/?query_hash=15bf78a4ad24e33cbd838fdb31353ac1&variables={"id":"28507402079","first":8}`
+  const url = `/.netlify/functions/instagram`
   useEffect(() => {
     if (
       JSON.parse(value).length > 0 &&
