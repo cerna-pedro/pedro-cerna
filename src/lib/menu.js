@@ -14,11 +14,11 @@ export const menu = [
     path: "/projects/",
     title: 'My Projects'
   },
-  {
-    name: "BLOG",
-    path: "/blog/",
-    title: 'My Blog Posts'
-  },
+  // {
+  //   name: "BLOG",
+  //   path: "/blog/",
+  //   title: 'My Blog Posts'
+  // },
   {
     name: "CONTACT",
     path: "/contact/",
