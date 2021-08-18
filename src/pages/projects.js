@@ -16,11 +16,10 @@ const Projects = ({ location }) => {
       <section>
         <h1>PROJECTS</h1>
         <p>
-          Here's a list of some websites I've worked on, as well as some
-          personal projects:
+          Here's a list of some projects I've worked on:
         </p>
 
-        {[...projects].reverse().filter((project,i)=>i<7).map((project, i) => (
+        {[...projects].reverse().map((project, i) => (
           <p key={i}>
             <ExternalLink
               title={project.name}

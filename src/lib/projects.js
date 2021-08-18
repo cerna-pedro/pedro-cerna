@@ -1,16 +1,16 @@
 export const projects = [
-  {
-    name: "A Montoya Photography",
-    url: "https://www.amontoyaphotography.com/",
-  },
-  {
-    name: "Risko Funk",
-    url: "https://www.riskofunk.com/",
-  },
-  {
-    name: "Southland HVAC Services",
-    url: "https://southlandhvacserv.com/",
-  },
+  // {
+  //   name: "A Montoya Photography",
+  //   url: "https://www.amontoyaphotography.com/",
+  // },
+  // {
+  //   name: "Risko Funk",
+  //   url: "https://www.riskofunk.com/",
+  // },
+  // {
+  //   name: "Southland HVAC Services",
+  //   url: "https://southlandhvacserv.com/",
+  // },
   {
     name: "Color of the Year, Confetti",
     url: "https://cerna-pedro.github.io/color-confetti/",
@@ -35,10 +35,10 @@ export const projects = [
     name: "Pomodoro Timer",
     url: "https://cerna-pedro.github.io/pomodoro/",
   },
-  {
-    name: "Agent Jason Cruz Listings",
-    url: "https://cruz-listings.netlify.app/",
-  },
+  // {
+  //   name: "Agent Jason Cruz Listings",
+  //   url: "https://cruz-listings.netlify.app/",
+  // },
   {
     name: "Photo Shoot",
     url: "https://photo-shoot.netlify.app/",
