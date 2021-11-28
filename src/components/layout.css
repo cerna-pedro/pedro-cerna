@@ -89,6 +89,16 @@ h1 {
   font-size: 4rem;
 }
 
+h2 {
+  padding-top: 2rem;
+  font-size: 3.2rem;
+}
+
+h3 {
+  padding-top: 3rem;
+  font-size: 2.8rem;
+}
+
 p {
   padding-top: 3rem;
   font-size: 2.4rem;
@@ -99,9 +109,18 @@ p {
     letter-spacing: 1rem;
     font-size: 3.5rem;
   }
+  h2 {
+    padding-top: 1.5rem;
+    font-size: 2.7rem;
+  }
+
+  h3 {
+    padding-top: 2.5rem;
+    font-size: 2.3rem;
+  }
 
   p {
-    padding-top: 3rem;
+    padding-top: 2.5rem;
     font-size: 2rem;
   }
 }
