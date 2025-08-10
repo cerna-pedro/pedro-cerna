@@ -9,11 +9,11 @@ export const menu = [
     path: "/about/",
     title: 'About Me'
   },
-  {
-    name: "PROJECTS",
-    path: "/projects/",
-    title: 'My Projects'
-  },
+  //{
+  //  name: "PROJECTS",
+  //  path: "/projects/",
+  //  title: 'My Projects'
+  //},
   // {
   //   name: "BLOG",
   //   path: "/blog/",
