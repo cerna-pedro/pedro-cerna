@@ -114,15 +114,7 @@ const Contact = ({ location }) => {
       <section>
         {warning && <Warning />}
         <h1>CONTACT</h1>
-        <p>Need a website?</p>
-        <p> Want to work together on a project?</p>
         <p>Feel free to reach out!</p>
-        <p>
-          <ExternalLink href="mailto:pedro.d.cerna@gmail.com">
-            pedro.d.cerna@gmail.com
-          </ExternalLink>
-        </p>
-        <p>OR</p>
         <p>
           You can fill out the form below.{" "}
           <span role="img" aria-label="Party Popper">
