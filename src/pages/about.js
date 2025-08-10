@@ -31,14 +31,8 @@ const About = ({ location }) => {
       <section>
         <h1>ABOUT</h1>
         <p>
-          I'm a web developer and engineer who lives in the city of Houston,
-          Texas.
+          I'm an engineer.
         </p>
-        <p>
-          I help individuals and businesses wanting to establish an online
-          presence, by developing fast, custom, awesome websites for them.
-        </p>
-        <p>Need a website? </p>
         <p>
           <InternalLink fade to="/contact/" duration={0.3} title="Contact Me">
             Contact me
